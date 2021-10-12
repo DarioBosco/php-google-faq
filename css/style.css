@@ -1,0 +1,22 @@
+*{
+	margin: 0; 
+	padding: 0; 
+	box-sizing: border-box; 
+}
+
+body {
+	font-family: 'Noto Sans', sans-serif;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+}
+
+p, li {
+	margin: 20px 0;
+}
+
+ol {
+	margin-left: 20px;
+}
